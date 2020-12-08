@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130430105313",
+    "project_id": "preiod-tracker",
+    "storage_bucket": "preiod-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130430105313:android:1104229258ae23a987a9a0",
+        "android_client_info": {
+          "package_name": "com.ifemini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130430105313-fegf63v71h3frs7b1ccelh80b9dq7hec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ifemini",
+            "certificate_hash": "8abe53ccf9bb1c31a998e44ff8d8e5592721ff6f"
+          }
+        },
+        {
+          "client_id": "130430105313-ng2ccjk3qihfivohvh6u83i7hv4bho8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsvA4DL9U1kkZgqKgabPLxvRq2BzHC-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130430105313-ng2ccjk3qihfivohvh6u83i7hv4bho8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
